@@ -1,5 +1,5 @@
 
-# **WebSocket Chat с Redis и Tornado**
+# **WebSocket Chat with Redis x Tornado**
 
 Простой чат-приложение, использующее **WebSocket** для обмена сообщениями в реальном времени и **Redis PubSub** для доставки сообщений между клиентами. Разработан на **Python Tornado** с асинхронной обработкой.
 
@@ -36,7 +36,7 @@
 
 ### **1. Клонирование репозитория**
 ```bash
-git clone https://github.com/ваш-аккаунт/websocket-redis-chat.git
+git clone https://github.com/RyogaGrey/Lab9.git
 cd websocket-redis-chat
 ```
 
